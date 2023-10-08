@@ -12,6 +12,7 @@ public class Main {
                 System.out.print(niz2d[i][j] + " ");
             }
             System.out.println();
+
         }
     }
 }
